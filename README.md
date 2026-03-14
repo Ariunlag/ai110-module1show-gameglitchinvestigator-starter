@@ -41,4 +41,5 @@ I have rebalanced the difficulty levels.
 
 ## 🚀 Stretch Features
 
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+- [ ] Advanced Edge-Case Testing
+![alt text](image-4.png)
