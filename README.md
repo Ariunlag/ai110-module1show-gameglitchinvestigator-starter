@@ -25,13 +25,19 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
+- [ ] The player selects a difficulty level, which determines the number range and attempts available. The objective is to guess the hidden number within those constraints. 
+- [ ] Detail which bugs you foundbased on difficulty .
+The attempt and the range of the numbers were not consistence. The probablity of right guess is much less in medium than hard. It is logic error. 
 - [ ] Explain what fixes you applied.
+I have rebalanced the difficulty levels.
 
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## 🚀 Stretch Features
 
